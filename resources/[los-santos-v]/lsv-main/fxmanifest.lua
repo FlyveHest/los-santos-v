@@ -103,6 +103,7 @@ client_scripts {
 	'lib/client/gui/bar.lua',
 	'lib/client/gui/helpqueue.lua',
 	'lib/client/gui/scoreboard.lua',
+	'lib/client/gui/scoreboard_timetrial.lua',
 
 	'lib/client/world.lua',
 	'lib/client/streaming.lua',
